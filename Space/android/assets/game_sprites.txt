@@ -1,0 +1,263 @@
+game_sprites.png
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+blank
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+bomb_F1
+  rotate: false
+  xy: 52, 2
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+bomb_F2
+  rotate: false
+  xy: 78, 2
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+bomb_explode_F1
+  rotate: false
+  xy: 104, 2
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+bomb_explode_F2
+  rotate: false
+  xy: 130, 2
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+bridge_F1
+  rotate: false
+  xy: 156, 2
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+buggy_F1
+  rotate: false
+  xy: 197, 2
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+buggy_F2
+  rotate: false
+  xy: 295, 2
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+clone_idle_F1
+  rotate: false
+  xy: 393, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+clone_idle_F2
+  rotate: false
+  xy: 431, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+clone_stand_F1
+  rotate: false
+  xy: 469, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_bomb_F1
+  rotate: false
+  xy: 507, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_idle_F1
+  rotate: false
+  xy: 545, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_idle_F2
+  rotate: false
+  xy: 583, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_jump_F1
+  rotate: false
+  xy: 621, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_jump_F2
+  rotate: false
+  xy: 659, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_jump_F3
+  rotate: false
+  xy: 697, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_run_F1
+  rotate: false
+  xy: 735, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_run_F2
+  rotate: false
+  xy: 773, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_run_F3
+  rotate: false
+  xy: 811, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_run_F4
+  rotate: false
+  xy: 849, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_runjump_F1
+  rotate: false
+  xy: 887, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_runjump_F2
+  rotate: false
+  xy: 925, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_runjump_F3
+  rotate: false
+  xy: 963, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+man_stand_F1
+  rotate: false
+  xy: 2, 88
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+moving_block
+  rotate: false
+  xy: 40, 88
+  size: 144, 96
+  orig: 144, 96
+  offset: 0, 0
+  index: -1
+moving_block_b
+  rotate: false
+  xy: 186, 88
+  size: 144, 96
+  orig: 144, 96
+  offset: 0, 0
+  index: -1
+moving_block_b_r
+  rotate: false
+  xy: 332, 88
+  size: 144, 96
+  orig: 144, 96
+  offset: 0, 0
+  index: -1
+moving_block_r
+  rotate: false
+  xy: 478, 88
+  size: 144, 96
+  orig: 144, 96
+  offset: 0, 0
+  index: -1
+seeker_F1
+  rotate: false
+  xy: 624, 88
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+seeker_F2
+  rotate: false
+  xy: 689, 88
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+slime_F1
+  rotate: false
+  xy: 754, 88
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+slime_F2
+  rotate: false
+  xy: 804, 88
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+slime_e_F1
+  rotate: false
+  xy: 854, 88
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+slime_e_F2
+  rotate: false
+  xy: 904, 88
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+slime_e_b_F1
+  rotate: false
+  xy: 2, 186
+  size: 384, 264
+  orig: 384, 264
+  offset: 0, 0
+  index: -1
+slime_e_b_F2
+  rotate: false
+  xy: 388, 186
+  size: 384, 264
+  orig: 384, 264
+  offset: 0, 0
+  index: -1

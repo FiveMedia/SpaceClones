@@ -1,0 +1,46 @@
+level_tiles.png
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+block1
+  rotate: false
+  xy: 0, 0
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 32, 0
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+ladder1
+  rotate: false
+  xy: 64, 0
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+ladder2
+  rotate: false
+  xy: 0, 24
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+left_side
+  rotate: false
+  xy: 32, 24
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+right_side
+  rotate: false
+  xy: 64, 24
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1

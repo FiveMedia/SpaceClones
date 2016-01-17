@@ -1,0 +1,16 @@
+
+
+- rover blows up when player not in rover as well (sprite collision bug!!)
+- finish 'boss' level - horizontal moving + switches + level design
+ - make two speed levels in the boss level, but reduce stuff a bit to make easier.
+ - adjust speed and level design now that buggy blows up as well!
+- finish other levels and wrap up stage 1 (let's keep it at 10 levels) + bonus
+- boss defeat, stage transition, etc.
+- make sure clones getting recorded as saved, etc.
+- add time to HUD and maybe show best time on HUD as well?
+- begin stage 2 - change tiles to red, add 'slime'
+- slime can 'climb walls' or turn around...bombs blow them up
+- make game over when lose all 99 lives...reset saved game when that happens...so have to start over!
+- stage 3 - gray tiles
+- add floating enemy that doesn't collide but swoops after you when player...goes dormant if far away or in buggy
+

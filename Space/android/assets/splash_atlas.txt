@@ -1,0 +1,32 @@
+splash_atlas.png
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+and
+  rotate: false
+  xy: 417, 2
+  size: 413, 89
+  orig: 413, 89
+  offset: 0, 0
+  index: -1
+fiveMediaLogo
+  rotate: false
+  xy: 2, 111
+  size: 750, 220
+  orig: 750, 220
+  offset: 0, 0
+  index: -1
+presents
+  rotate: false
+  xy: 2, 2
+  size: 413, 107
+  orig: 413, 107
+  offset: 0, 0
+  index: -1
+villageLogo
+  rotate: false
+  xy: 2, 333
+  size: 800, 192
+  orig: 800, 192
+  offset: 0, 0
+  index: -1
